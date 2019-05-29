@@ -3,7 +3,7 @@ Source Code of TEA *(IJCAI-2019)* version 1.0, implemented on Tensorflow.
 
 ### Cite
 
-f you find *TEA* useful for your research, please consider citing the following paper:
+If you find *TEA* useful for your research, please consider citing the following paper:
 
 ```
 @inproceedings{tea,
